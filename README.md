@@ -6,7 +6,8 @@ A started template for your project
 
 <h1>Execution</h1>
 <p>
-The submission is a WebStorm project that can be run directly from the IDE.
+Open console, execute : node bin/www
+The open your browser at http://localhost:3000
 </p>
 <h1>Assumptions</h1>
 <p>
